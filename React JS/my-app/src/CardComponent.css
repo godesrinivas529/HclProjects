@@ -1,0 +1,32 @@
+section{
+    border: 3px solid whitesmoke;
+    height: 170px;
+    width: 350px; 
+    margin: 3% 40%;
+}
+.card{
+    display: flex;
+}
+.cardimg{
+    margin: 15px 15px 10px 15px;
+    height: 100px;
+    width: 100px;
+}
+.card_description{
+    padding-top: 10px;
+    line-height: 7px;
+    font-family: monospace;
+
+}
+.sign-in{
+    border-radius: 3px;
+    padding: 5px 20px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    margin-left:4px ;
+}
+footer{
+    background-color: rgb(241, 236, 236);
+    padding: 10px;  
+}
