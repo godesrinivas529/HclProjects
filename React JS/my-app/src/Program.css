@@ -1,0 +1,71 @@
+.program, .progDes{
+    text-align: center;
+}
+.program{
+    padding: 5% 0px 10px 0px;
+}
+.program:hover{
+    text-decoration: underline;
+}
+.progDes{
+    font-size: smaller;
+    line-height: 1px;
+    color: tomato;
+}
+.proDescription{
+    background-color: whitesmoke;
+    height: 12em;
+    width: 15em;
+    padding: 8px;
+}
+.experience{
+    float: left;
+    margin:20px  0px 20px 20%;
+}
+.aboutmodel{
+    font-size: smaller;
+    text-indent: justify;
+    color: rgb(105, 104, 104);
+}
+.details{
+    text-indent: justify;
+    font-size: x-small;
+    line-height: 0.5em;
+ 
+}
+.proDescription:hover{
+    box-shadow: 1px 3px 2px 3px gray ;    
+}
+.courses{
+    border: 1px solid whitesmoke;
+    height: 10em;
+    width: 20em;
+    background-color: whitesmoke;
+}
+.cName{
+    line-height: 1px;
+    text-align: center;
+}
+.courseInfo{
+    font-size: smaller;
+    text-indent: justify;
+    padding : 5px;
+}
+.cIcon{
+    font-size: x-large;
+    line-height: 1px;
+    padding-left: 10px;
+}.proDetails{
+    float: left;
+    margin: 2px;
+}
+.mainPro{
+    margin-left: 10% ;
+ 
+}
+.aboutus{
+    margin:22% 5% 3% 5%;
+}
+p{
+    font-size: smaller;
+}

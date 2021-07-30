@@ -1,0 +1,55 @@
+.contact{
+    text-align: center;
+    padding: 5% 0px 10px 0px;
+ }
+ .contact:hover{
+     text-decoration: underline;   
+ }
+ .formdata{
+     width: 75%;
+     height: 300px;
+     padding: 25px 100px 25px 65px;
+     background-color: whitesmoke;
+     display: flex;
+     margin: auto;
+     margin-bottom: 100px;
+ }
+ .formdata:hover{
+     box-shadow: 1px 3px 2px 3px gray ;
+ }
+ #username, #phone{
+     padding: 5px;
+     margin-left: 30px;
+ }
+ #email{
+     padding : 5px;
+     padding-right: 65px;
+     margin: 15px 100px;
+ }
+ #message{
+     margin: 3px 100px;
+  
+ }
+ .Rform{
+     display: flex;
+     height: 60px;
+     margin:10% 0% 10% 15%;
+ }
+ .fmail, .fphn{
+     border: 1px solid whitesmoke;
+     padding: 10px 30px 80px 30px;
+     margin-left: 25px;
+     line-height: 1px;
+     box-shadow: 1px 2px 6px 1px ;
+ }
+ .about{
+     font-size: x-small; 
+ }
+ .button{
+     margin: 3px 150px;
+     padding: 10px;
+     border-radius: 25px;
+     border: none;
+     background-color: tomato;
+     color: white;
+ }
